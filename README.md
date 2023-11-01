@@ -12,3 +12,8 @@ Python Basics for 2nd years
   - Markdown Overview and sample example on each
   - Python Basics like Variables,assignment of variables with sample examples on each
   - Data types,Type function with sample example on it
+
+## Day-03(01-11-2023):
+  - Markdown formats with sample examples on each
+  - Operators and its types with sample examples on it
+  - Input formatting with sample example
