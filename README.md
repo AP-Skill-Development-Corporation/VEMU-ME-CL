@@ -17,3 +17,8 @@ Python Basics for 2nd years
   - Markdown formats with sample examples on each
   - Operators and its types with sample examples on it
   - Input formatting with sample example
+
+## Day-04(02-11-2023):
+  - Keywords and listed all keywords by importing a keyword module
+  - Output Formatting ways,Typecasting with sample examples on each
+  - Conditional Statements Overview
