@@ -22,3 +22,7 @@ Python Basics for 2nd years
   - Keywords and listed all keywords by importing a keyword module
   - Output Formatting ways,Typecasting with sample examples on each
   - Conditional Statements Overview
+
+## Day-05(03-11-2023):
+  - Conditional Statements like if,if-else,nested if and elif with sample examples on each
+  - Loops Overview,for and range with sample examples on each
